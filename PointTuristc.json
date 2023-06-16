@@ -1,0 +1,74 @@
+{
+  "pontosTuristicos": [
+    {
+      "Nome": "Marco Zero",
+      "descriçao": "O Marco Zero é um marco histórico e geográfico localizado no bairro do Recife Antigo. É um ponto de referência importante na cidade e marca o início das principais avenidas do Recife.",
+      "horario": "Aberto 24 horas",
+      "valoringresso": "Gratuito",
+      "picture": "https://example.com/marco-zero.jpg"
+    },
+    {
+      "Nome": "Recife Antigo",
+      "descriçao": "O Recife Antigo é um bairro histórico no centro da cidade do Recife. É conhecido por sua arquitetura colonial, museus, igrejas e atrações culturais. Também abriga o Marco Zero.",
+      "horario": "Aberto o dia todo",
+      "valoringresso": "Gratuito",
+      "picture": "https://example.com/recife-antigo.jpg"
+    },
+    {
+      "Nome": "Praia de Boa Viagem",
+      "descriçao": "A Praia de Boa Viagem é uma das praias mais famosas do Recife. Possui uma extensa faixa de areia, coqueiros e águas mornas. É um local popular para banho de mar e prática de esportes.",
+      "horario": "Aberta o dia todo",
+      "valoringresso": "Gratuito",
+      "picture": "https://example.com/boa-viagem.jpg"
+    },
+    {
+      "Nome": "Parque das Esculturas Francisco Brennand",
+      "descriçao": "O Parque das Esculturas Francisco Brennand é um parque público que abriga as obras do famoso artista pernambucano Francisco Brennand. É um local único com esculturas e um belo cenário à beira-mar.",
+      "horario": "Aberto das 8h às 17h",
+      "valoringresso": "Gratuito",
+      "picture": "https://example.com/parque-esculturas.jpg"
+    },
+    {
+      "Nome": "Instituto Ricardo Brennand",
+      "descriçao": "O Instituto Ricardo Brennand é um museu de arte localizado em um castelo medieval. Abriga uma coleção de arte europeia, armas antigas e um belo jardim. É um lugar imperdível para os amantes da arte e história.",
+      "horario": "Aberto das 13h às 17h",
+      "valoringresso": "R$ 25",
+      "picture": "https://example.com/instituto-brennand.jpg"
+    },
+    {
+      "Nome": "Cais do Sertão",
+      "descriçao": "O Cais do Sertão é um museu interativo que conta a história e cultura do povo nordestino, em especial do sertão. Apresenta exposições, música e experiências imersivas para os visitantes.",
+      "horario": "Aberto das 9h às 17h",
+      "valoringresso": "R$ 10",
+      "picture": "https://example.com/cais-sertao.jpg"
+    },
+    {
+      "Nome": "Teatro Santa Isabel",
+      "descriçao": "O Teatro Santa Isabel é um teatro histórico no centro do Recife. É conhecido por sua arquitetura neoclássica e por sediar apresentações de ópera, teatro e música clássica.",
+      "horario": "Varia de acordo com as apresentações",
+      "valoringresso": "Varia de acordo com as apresentações",
+      "picture": "https://example.com/teatro-santa-isabel.jpg"
+    },
+    {
+      "Nome": "Basílica e Convento de Santo Antônio",
+      "descriçao": "A Basílica e Convento de Santo Antônio é um importante complexo religioso no Recife. Possui uma bela igreja de estilo barroco e é considerada uma das igrejas mais antigas do Brasil.",
+      "horario": "Aberto das 8h às 17h",
+      "valoringresso": "Gratuito",
+      "picture": "https://example.com/basilica-santo-antonio.jpg"
+    },
+    {
+      "Nome": "Paço do Frevo",
+      "descriçao": "O Paço do Frevo é um centro cultural dedicado ao frevo, uma dança e gênero musical típicos do carnaval de Pernambuco. Oferece exposições, apresentações e aulas de dança.",
+      "horario": "Aberto das 9h às 17h",
+      "valoringresso": "R$ 10",
+      "picture": "https://example.com/paco-frevo.jpg"
+    },
+    {
+      "Nome": "Parque Dona Lindu",
+      "descriçao": "O Parque Dona Lindu é um parque público à beira-mar que oferece uma área verde para lazer, caminhadas e eventos culturais. Possui uma arquitetura moderna e uma bela vista para o mar.",
+      "horario": "Aberto o dia todo",
+      "valoringresso": "Gratuito",
+      "picture": "https://example.com/parque-dona-lindu.jpg"
+    }
+  ]
+}

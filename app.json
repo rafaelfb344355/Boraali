@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "BoraAlí",
+    "slug": "boraali",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Logos_Fundos/IconeBoraAlí.png",
+    "splash": {
+      "image": "./assets/Logos_Fundos/FUNDO.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ff9100"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
